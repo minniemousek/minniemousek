@@ -5,3 +5,4 @@
 - 📫 How to reach me: linkedin.com/in/nadezhda-iushina
 
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
